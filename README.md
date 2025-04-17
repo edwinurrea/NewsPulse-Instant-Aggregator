@@ -1,8 +1,7 @@
 # NewsPulse-Instant-Aggregator
 An AI-powered news classifier that detects and alerts critical real-world events instantly from RSS feeds using a custom-trained model.
 
-# Critical News Classifion 🔥📰
-
+# Critical News Classificaton 🔥📰
 This project is a machine learning-powered system that monitors real-world news and identifies **high-importance events** like government actions, crises, or policy changes. Built using scikit-learn and TF-IDF, it classifies news headlines and descriptions based on their criticality and sends push notifications when necessary.
 
 ## 💡 Features
